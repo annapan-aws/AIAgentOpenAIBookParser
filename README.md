@@ -1,5 +1,5 @@
 # AIAgentBedrockBookParser
-experimenting with creating an AI agent to use the Bedrock API to parse information from a long file by topic
+experimenting with creating an AI agent to use the OpenAI API to parse information from a long file by topic
 
 # AI Agent Project
 
@@ -26,5 +26,6 @@ A basic Python project structure.
 ## Running the Project
 
 ```
+.venv\Scripts\Activate.ps1
 python main.py
 ```

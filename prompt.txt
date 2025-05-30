@@ -1,0 +1,132 @@
+I write on the following topics categorized by NUMBER:
+
+The topics fall under the following [ [NUMBER]: Chapter Topic] categories:
+
+ 1: What Broke Me Was Invisible
+
+-The origins of internalized shame and feeling “not enough”
+
+-Subtle childhood and adult moments that shaped identity wounds
+
+-Learning to spot the internal voice of self-rejection
+
+-Realization that “rules” we follow are often invisible, inherited, and unexamined
+
+ 2: The Prison of the Mind
+
+-Perfectionism, loops of self-blame, and false responsibility
+
+-Using intellect to shame oneself into “fixing”
+
+-How internal safety strategies become mental cages
+
+-Beginning to recognize and unhook from mental programming
+
+ 3: Rules I Didn’t Know I Was Following
+
+-Discovering the hidden “shoulds” driving behavior
+
+-Letting go of borrowed beliefs
+
+-Learning to question inherited values
+
+-Seeing social norms as optional, not absolute
+
+ 4: Waking the Body
+
+-Reconnecting to a body that had been ignored or mistrusted
+
+-Slowness, fatigue, and the frustration of physical healing
+
+-Somatic practices (like Koga) that rewire presence
+
+-Honoring physical restrictions without shame
+
+ 5: Permission to Create
+
+-Letting creativity emerge without justification
+
+-Music, voice, art as identity reclamation
+
+-The power of doing something just because it feels good
+
+-Releasing the need for external validation
+
+ 6: The Language of Energy
+
+-Exploring energetic contribution, presence, and frequency
+
+-Learning to value intangible things
+
+-Living from subtle guidance, not external goals
+
+-Seeing emotions as vibrational information
+
+ 7: Love Without Earning It
+
+-Shifting from conditional worth to innate belonging
+
+-Pets and caretaking as lessons in non-transactional love
+
+-Feeling safe enough to receive love freely
+
+-Letting go of needing to prove yourself to deserve connection
+
+ 8: This Is My Real Life
+
+-Anchoring into presence, not potential
+
+-Moments of joy as evidence of truth
+
+-Realizing fulfillment is already accessible
+
+-Choosing experience over outcome
+
+ 9: Spiritual & Philosophical Exploration
+
+-Reframing reality: game, simulation, soul-level path
+
+-Trusting inner knowing over consensus reality
+
+-Teachers, ideas, and metaphors that cracked the code
+
+-Spirituality as an intimate, customized language
+
+ 10: I Am the Artist
+
+-Living a life you’d be proud to call your art
+
+-Seeing yourself as creator, not just reactor
+
+-Holding joy, creativity, and pain all at once
+
+-Integration — not conclusion — as the final note
+
+ 11: None of the Above
+
+-Put content in this category that don't seem to fit well in any of the other options.
+
+I need this content organized and collated by [NUMBER], let me describe what that means:
+
+I want the input text extracted or copied word-for-word to the output.  You can fix typos that you have a very high confidence of being typos, but other grammar stays as written.  If there is a double-negative, that was surely intentional, because when it comes to Rules, we absolutely don't use enough *words*.  asterisks and quotes and double quotes and caps and a ridiculous amount of periods are important, for example the sentence "Because even *if* that really happened to me *back then*, it’s like I SEE CLEARLY how THAT is not what is blocking me NOW" it is important to copy the asterisks and caps as written, because the importance is precise and is a subtlety often LOST in the Rules that bind us (which is somewhat the topic of the book, so, it's important.)  They are a part of the expression. 
+ 
+The intent on this  is that the result will be essentially the exact same total text, but reorganized differently by conversational flow filtered to a topic.  Almost as if you were reading the whole doc, listening intently, and started recording the letters... and kept recording until you could tell the topic changed.  And then end that recording where the topic changed and label it with the [NUMBER].  Then start the next recording until there is no more file.   The input text could contain one or more topics.  There could be several paragraphs on topic 1 (for example, A, B, and C), then several paragraphs on topic 5 (D, and E), then another paragraph on topic 1 (F).  The expected result would be:
+[1]
+A
+B
+C
+F
+[5]
+D
+E
+
+The end result is the doc with the same total content, but reorganized to append sections of same chapter topic together.  Like changing the sort order of the file. 
+I believe in you, you can do it.  I know you really enjoy summarizing and leaving out details, but in this case your mission is to do the opposite of that tendency.
+
+The topics will usually span several paragraphs, and I don’t want this abbreviated with ellipses or anything.  The instructions are to  please give the whole thing.
+Just because a new date entry begins, doesn’t mean it’s not the same topic.
+And just because a new date has NOT begun, doesn’t mean that it IS the same topic, I frequently topic jump within a day’s thoughts, so just because it is together in the text doesn’t mean it is together in topic. Often though, I do add extra whitespace when I topic jump, so that is a good queue. 
+
+
+Remember, first consider the indexed list  as topic categories by number, and then listen and record for those topics.
+Then report the content separated by teh [NUMBER] that they align to.
